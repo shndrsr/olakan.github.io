@@ -10,6 +10,6 @@ if (md == 'deep') {
 }
 setTimeout(
   function(){
-    window.location=redir; 
+    window.location=redir
   },
 3000);
